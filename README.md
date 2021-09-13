@@ -2,6 +2,13 @@
 ### Author: Yongfei Lu
 ### Date: March 18th, 2021
 
+
+### Get the App
+	To run the app, you should download it via https://drive.google.com/drive/
+	folders/1oV_OL10laG4OQ0tEqlWUDE2MSo4FCMLh, where the over-200M flower 
+	recognizer mode is included.
+
+
 ## Summary:
 	Twiflower uses AI to recognize flowers around and help you gain knowledge 
 	of the flowers from Wikipedia. Moreover, it can conduct a sentiment analysis
