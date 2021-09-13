@@ -2,7 +2,7 @@
 ### Author: Yongfei Lu
 ### Date: March 18th, 2021
 
-###Third-Party Framework:
+### Third-Party Framework:
 	In this app, we use Cocoapods to incorporate Alamofire, SwiftyJSON, and SwifteriOS to deal with
 	the data we fetch from the APIs. Alamofire helps request and organize the data we get from the
 	the Wikipedia API：https://en.wikipedia.org/w/api.php, SwiftyJSON helps parse JSON data from the
@@ -10,7 +10,7 @@
 	standard APIs (searching and filtering tweets according to our demands). We also use Reachability
 	to keep track of the Internet connection, which is required to use the app.
 
-###Consulted Resousces:
+### Consulted Resousces:
 	1. UIActivityIndicator: https://www.youtube.com/watch?v=FIXU6d370K8
 	2. UIAlertView: https://www.youtube.com/watch?v=kMK8m2P4Cec
 				    https://www.youtube.com/watch?v=tPPRmB_EZkY
