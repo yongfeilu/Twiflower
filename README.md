@@ -3,10 +3,10 @@
 ### Date: March 18th, 2021
 
 
-### Get the App
+## Get the App
 	To run the app, you should download it via https://drive.google.com/drive/
 	folders/1oV_OL10laG4OQ0tEqlWUDE2MSo4FCMLh, where the over-200M flower 
-	recognizer mode is included.
+	recognizer model is included.
 
 
 ## Summary:
