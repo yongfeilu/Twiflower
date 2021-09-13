@@ -19,16 +19,17 @@
 
 
 ## Demo:
-	### Lauching Page
-	![img](./imgs/lauching.png)
-	### Flower Recognition
-	![img](./imgs/flower.png)
-	### Tweet Analysis
-	![img](./imgs/twanalysis.png)
-	### Tweet Analysis Table View
-	![img](./imgs/twitable.png)
-	### Tweet Analysis Detail View
-	![img](./imgs/dog.png)
+
+### Lauching Page
+![img](./imgs/lauching.png)
+### Flower Recognition
+![img](./imgs/flower.png)
+### Tweet Analysis
+![img](./imgs/twanalysis.png)
+### Tweet Analysis Table View
+![img](./imgs/twitable.png)
+### Tweet Analysis Detail View
+![img](./imgs/dog.png)
 	
 
 ## Consulted Resousces:
